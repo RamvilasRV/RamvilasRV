@@ -1,12 +1,14 @@
-👋 Welcome to Ramvilas's Code Corner ☕
-Hey there! I'm Ramvilas, a Python wrangler who runs on coffee and dreams of building apps that don’t crash (too often). My motto? If it’s not broken, I haven’t touched it yet.
-🐍 About Me
+Hi there.. 👋
+
+```python
 def Ramvilas(coffee, debug_mode=False):
     """
     Initialize Ramvilas with caffeine power and a sprinkle of humor.
+
     Parameters:
         coffee (int): Number of coffee cups consumed (more cups, more bugs fixed).
         debug_mode (bool): If True, prints random dev jokes during execution.
+
     Returns:
         Developer: A quirky Python enthusiast ready to code and conquer bugs.
     """
@@ -25,7 +27,7 @@ def Ramvilas(coffee, debug_mode=False):
                 print("Warning: Excessive coffee detected. May refactor entire codebase at 2 AM.")
             return code
         except SyntaxError:
-            print("Oops, forgot a colon again. Time for more coffee!")
+            print("Oops, Indentation mismatch again. Time for more coffee!")
             coffee += 1
             bug_squashing_level = coffee * 10
         except KeyboardInterrupt:
@@ -33,32 +35,8 @@ def Ramvilas(coffee, debug_mode=False):
             break
 
     return "Ramvilas: Powered by Python, coffee, and a questionable sense of humor."
+```
 
-💻 My Tech Stack
+[![RamvilasRV's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamvilasRV&show_icons=true&theme=radical)](https://github.com/ramvilasrv)
 
-🐍 Python: My go-to for scripting, automating, and accidentally writing poetry in code.
-🌐 Django: Building web apps that are secure, scalable, and slightly over-engineered.
-⚙️ DRF: Crafting APIs so smooth, even my coffee machine wants to POST a request.
-
-
-🚀 Projects
-
-Project TBDA Python/Django app that does something awesome. (Ramvilas, drop your project details here!)🔗 Link to repo | ⭐ Stars: 0 (help me out, folks!)
-
-Another TBDProbably a DRF-powered API that serves coffee recipes. Or memes. Or both.🔗 Link to repo | ⭐ Stars: 0 (yep, still waiting!)
-
-
-☕ Fun Facts
-
-Coffee Count: I’ve lost track after cup #42.
-Favorite Bug: IndentationError—because even my code needs personal space.
-Life Hack: Ctrl+C, Ctrl+V, pray it works.
-
-📫 Get in Touch
-
-🐙 GitHub
-📧 Email me
-
-
-“Code hard, sip coffee harder.” — Ramvilas, probably
-
+“If it isn't broken, I haven't touched it yet” — Ramvilas, probably
