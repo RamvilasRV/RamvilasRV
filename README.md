@@ -1,4 +1,6 @@
+<html>
 
+---
 ### `$ whoami`
 
 ```
@@ -8,3 +10,4 @@ main loop: build → break → understand → refactor → repeat
 ```
 
 ---
+</html>
