@@ -4,8 +4,8 @@
 ### `$ whoami`
 
 ```
-> python developer, django, splunk, xsoar, drawn to the terminal
-
+> python developer, django, splunk, xsoar
+> TUI enthusiast
 > main loop: build → break → understand → refactor → repeat
 ```
 
